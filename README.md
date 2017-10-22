@@ -1,9 +1,9 @@
 # Self-Taught Data Science and Machine Learning
 *v1.0 October-22-2017*
 
-## My short story of how to be part of this AI breakthrough
-Like me, most of you are coming from a non-computer science or statistics background. One of the most effective method to pick up Data Science (especially Machine Learning and Deep Learning) is to: 
-1. PRACTICE, PRACTICE, PRACTICE and LEARN **at the same time**
+## My short story of how to be a part of this AI breakthrough
+Like me, a lot of you are probably **not** coming from a computer science or statistics background. One of the most effective ways to pick up Data Science (especially Machine Learning and Deep Learning) is to: 
+1. PRACTICE, PRACTICE, PRACTICE *and* LEARN **at the same time**
 2. Post your repositories (project) on [Github](https://www.github.com) & [Kaggle](https://www.kaggle.com)
 3. Start participating in local [Hackathons](https://en.wikipedia.org/wiki/Hackathon) and/or on [Kaggle](https://www.kaggle.com) to try and solve real data.
 
@@ -14,9 +14,10 @@ The reason why I said 'at the same time' is that:
 - PRACTICE allows you to apply **tools** that you need to solve your data science problem with existing repositories without wasting time to start from ground up. I believe practicing it this way from top-down is much faster than the traditional learning we have all been exposed to (especially me!)
 - LEARNING is crucial to understand **why** did you apply the tools that you did i.e. why did you choose the algorithms you did.
 
-At the same time, go out of your comfort zone and go meet other people in the field around you area using [MeetUp](http://www.meetup.com/) or [Eventbrite](https://www.eventbrite.com). From finding them out in the summer 2017, I now regularly go to [Houston Data Science](https://www.meetup.com/Houston-Data-Science/), [Houston Machine Learning](https://www.meetup.com/Houston-Machine-Learning/), [Houston Energy Data Science](https://www.meetup.com/Houston-Energy-Data-Science-Meetup/) and [Houston Data Visualization](https://www.meetup.com/Houston-Data-Visualization-Meetup/) groups.
+At the same time, if you can and you live in big cities - go out of your comfort zone and go meet other people in the field in your area using [MeetUp](http://www.meetup.com/) or [Eventbrite](https://www.eventbrite.com). 
+From finding out about Meetup in the summer 2017, I now regularly go to [Houston Data Science](https://www.meetup.com/Houston-Data-Science/), [Houston Machine Learning](https://www.meetup.com/Houston-Machine-Learning/), [Houston Energy Data Science](https://www.meetup.com/Houston-Energy-Data-Science-Meetup/) and [Houston Data Visualization](https://www.meetup.com/Houston-Data-Visualization-Meetup/) groups and I definitely learned a lot by talking to people or sitting in lectures. Be warned that it can be intimidating at first, but understand and expect that you will leave from first few Meetups with 0.1 to 5% of comprehension of the whole learning experience and that is COMPLETELY NORMAL. Keep an open mind, be eager to learn and you will realize how that percentage of comprehension grows over time. This is all part of learning. It is way easier and faster than just learning the theories in books or courses but most of all, it will reinforce your theoretical learning.  
 
-Last but not least, learn how it is being applied in the real world. Start by figuring out which **industries you are interested in**, find out about what or how they are integrating traditional methods and products with advanced analytics and emerging technologies into their existing or future products, workflow or supply chain etc. Then VOILA! Your journey begin
+Last but not least, learn how data science and its architecture are being applied in the **REAL WORLD**. Start by figuring out which **industries you are interested in**, find out about what or how they are integrating traditional methods and products with advanced analytics and emerging technologies into their existing or future products, workflow or supply chain etc. Then VOILA! Your journey begin
 
 
 ## Introduction
