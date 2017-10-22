@@ -16,7 +16,7 @@ The reason why I said 'at the same time' is that:
 
 At the same time, go out of your comfort zone and go meet other people in the field around you area using [MeetUp](http://www.meetup.com/) or [Eventbrite](https://www.eventbrite.com). From finding them out in the summer 2017, I now regularly go to [Houston Data Science](https://www.meetup.com/Houston-Data-Science/), [Houston Machine Learning](https://www.meetup.com/Houston-Machine-Learning/), [Houston Energy Data Science](https://www.meetup.com/Houston-Energy-Data-Science-Meetup/) and [Houston Data Visualization](https://www.meetup.com/Houston-Data-Visualization-Meetup/) groups.
 
-Last but not least, figure out which **industries you are interested in**, find out about what or how they are integrating traditional methods and products with advanced analytics and emerging technologies into their existing or future products, workflow or supply chain etc.
+Last but not least, learn how it is being applied in the real world. Start by figuring out which **industries you are interested in**, find out about what or how they are integrating traditional methods and products with advanced analytics and emerging technologies into their existing or future products, workflow or supply chain etc. Then VOILA! Your journey begin
 
 
 ## Introduction
@@ -25,6 +25,8 @@ People often get confused with the differences between Machine Learning (ML), De
 Here is one diagram I made *(inspired from Nvidia)*:
 ![](https://github.com/didiooi/beginnersguideML/blob/master/AI%20ML%20DL.png)
 *In short, Deep Learning is a subset of Machine Learning which is a subset of AI.*
+
+There is also another way to view this: **Supervised and Unsupervised Learning**. Supervised Learning includes Machine Learning while Unsupervised Learning includes Deep Learning and Reinforcement Learning.
 
 ### Behind the Hype: Terminologies Explained
 
@@ -49,15 +51,17 @@ Read '[Python overtakes R, becomes the leader in Data Science, Machine Learning 
 
 ## Practice 
 - [Kaggle](https://www.kaggle.com/)
-- Forking from existing [GitHub](https://www.github.com] repositories
+- Forking from existing [GitHub](https://www.github.com) repositories
 
 ## Learning Resources
-Andrew Ng's Stanford [**Machine Learning** course](https://www.coursera.org/learn/machine-learning) is a great place to start if you already have a strong science and math background. For more theoretical background behind Statistical Learning, which is an advanced branch of statistics invented in conjunction with Machine Learning, your best bet will be [**Introduction to Statistical Learning**](http://www-bcf.usc.edu/~gareth/ISL/) If you want the classic beginner's guide to ML and needs some refresher with math, definitely go to Chris Bishop's [**Pattern Recognition**](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf). For **Deep Learning**, there is no other place to start with than Ian Goodfellow et al's [Deep Learning](http://www.deeplearningbook.org/) book.
+Andrew Ng's Stanford [**Machine Learning** course](https://www.coursera.org/learn/machine-learning) is a great place to start if you already have a strong science and math background. For more theoretical background behind Statistical Learning, which is an advanced branch of statistics invented in conjunction with Machine Learning, your best bet will be [**Introduction to Statistical Learning**](http://www-bcf.usc.edu/~gareth/ISL/) If you want the classic beginner's guide to ML and needs some refresher with math, definitely go to Chris Bishop's [**Pattern Recognition**](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf). 
 
-## More Deep Learning
+## Deep Learning
+- For **Deep Learning**, there is no other place to start with than Ian Goodfellow et al's [Deep Learning](http://www.deeplearningbook.org/) book.
 - [Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/) - cheat sheet containing for most architectures  
-- [Neural Network playground with TensorFlow](http://playground.tensorflow.org) - a web app that lets you play with a real neural network running in your browser and click buttons and tweak parameters to see how it works
+- [Neural Network playground with TensorFlow](http://playground.tensorflow.org) - a web app that lets you play with a real neural network running in your browser and click buttons and tweak parameters to see how it works. If you are unsure of what pressing all that buttons mean, read [Google's blog](https://cloud.google.com/blog/big-data/2016/07/understanding-neural-networks-with-tensorflow-playground)
 
+## Reinforcement Learning
 
 ## Not-so Basic Data Science
 If you're feeling extra adventurous and would love to learn more theoretical and mathematical background, try Hastie's [Introduction to Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
@@ -70,13 +74,13 @@ If you're feeling extra adventurous and would love to learn more theoretical and
 ## Help
 [StackExchange](https://stackexchange.com/): to ask for help in any data science or programming problems
 
-## Important Takeaways
+## Side Note
 The key takeaways that I have learned:
-1. You do not need to know advanced coding to get into Data Science or Machine Learning etc
+1. You do not need to know advanced coding to get into Data Science or Machine Learning etc, do it from top-down
 2. Data Science and its tools is **NOT magic**! You should remain skeptical and vigilant. Good data and proper internal validation is required.
-3. 
 
-
+## Questions
+Let me know if you have any questions, at didi.ooi@bristol.ac.uk or at message me at [LinkedIn](https://www.linkedin.com/in/didiooi).
 
 
 
