@@ -22,7 +22,7 @@ Last but not least, figure out which **industries you are interested in**, find 
 ## Introduction
 People often get confused with the differences between Machine Learning (ML), Deep Learning (DL) and how it relates to Artificial Intelligence (AI).
 
-Here is one diagram I made (inspired from Nvidia)
+Here is one diagram I made *(inspired from Nvidia)*:
 ![](https://github.com/didiooi/beginnersguideML/blob/master/AI%20ML%20DL.png)
 *In short, Deep Learning is a subset of Machine Learning which is a subset of AI.*
 
