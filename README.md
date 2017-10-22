@@ -1,4 +1,4 @@
-# Newbie's Resources for Self-Taught Data Science and Machine Learning
+# Self-Taught Data Science and Machine Learning
 *v1.0 October-22-2017*
 
 ## My short story of how to be part of this AI breakthrough
