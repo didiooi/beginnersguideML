@@ -23,9 +23,20 @@ Last but not least, figure out which **industries you are interested in**, find 
 People often get confused with the differences between Machine Learning (ML), Deep Learning (DL) and how it relates to Artificial Intelligence (AI).
 
 Here is one diagram I made (inspired from Nvidia)
-[](https://github.com/didiooi/beginnersguideML/blob/master/AI%20ML%20DL.png)
-In short, Deep Learning is a subset of Machine Learning which is a subset of AI.
+![](https://github.com/didiooi/beginnersguideML/blob/master/AI%20ML%20DL.png)
+*In short, Deep Learning is a subset of Machine Learning which is a subset of AI.*
 
+### Behind the Hype: Terminologies Explained
+
+  Data Science: Extraction of knowledge and information from data, using integrated ideas from Mathematics, Statistics, Machine Learning, Computer Science, and Subject Matter Expertise (SME).
+  Big Data: Unstructured data from multiple sources arriving at an alarming **Velocity, Volume and Variety** and in format in which meaningful value and information is not leveraged from (yet). Machine Learning (ML): A field in computer science whereby the algorithm has the ability to learn without being explicitly programmed.  
+  Statistical Learning: Branch of applied statistics recently emerge in response to ML, emphasizing statistical models and assessment of uncertainty.  
+ Deep Learning: A computational method for implementing machine learning using artificial neural network by building multiple layers of abstraction to solve complex semantic problems.
+
+ All of these are very similar but have different emphases.
+ ![](https://github.com/didiooi/beginnersguideML/blob/master/Data%20Sci.png)
+ *The goal is to be a **unicorn**.*
+ 
 
 ## Programming Language
 [**Python**](https://www.python.org/) is the fastest growing language because of how dynamic and readable it is, so I'd suggest getting started with the basics of it.  
@@ -58,6 +69,13 @@ If you're feeling extra adventurous and would love to learn more theoretical and
 
 ## Help
 [StackExchange](https://stackexchange.com/): to ask for help in any data science or programming problems
+
+## Important Takeaways
+The key takeaways that I have learned:
+1. You do not need to know advanced coding to get into Data Science or Machine Learning etc
+2. Data Science and its tools is **NOT magic**! You should remain skeptical and vigilant. Good data and proper internal validation is required.
+3. 
+
 
 
 
