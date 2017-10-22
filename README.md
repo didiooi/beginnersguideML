@@ -18,7 +18,7 @@ At the same time, if you can and you live in big cities - go out of your comfort
 From finding out about Meetup in the summer 2017, I now regularly go to [Houston Data Science](https://www.meetup.com/Houston-Data-Science/), [Houston Machine Learning](https://www.meetup.com/Houston-Machine-Learning/), [Houston Energy Data Science](https://www.meetup.com/Houston-Energy-Data-Science-Meetup/) and [Houston Data Visualization](https://www.meetup.com/Houston-Data-Visualization-Meetup/) groups and I definitely learned a lot by talking to people or sitting in lectures. Be warned that it can be intimidating at first, but understand and expect that you will leave from first few Meetups with 0.1 to 5% of comprehension of the whole learning experience and that is COMPLETELY NORMAL. Keep an open mind, be eager to learn and you will realize how that percentage of comprehension grows over time. This is all part of learning. It is way easier and faster than just learning the theories in books or courses but most of all, it will reinforce your theoretical learning.
 
 ![](https://github.com/didiooi/beginnersguideML/blob/master/Hackathon.jpg)
-*At the more recent SEG Geophysics Hackathon*
+*(At the more recent SEG Geophysics Hackathon)*
 
 Last but not least, learn how data science and its architecture are being applied in the **REAL WORLD**. Start by figuring out which **industries you are interested in**, find out about what or how they are integrating traditional methods and products with advanced analytics and emerging technologies into their existing or future products, workflow or supply chain etc. Then VOILA! Your journey begin
 
@@ -28,7 +28,7 @@ People often get confused with the differences between Machine Learning (ML), De
 
 Here is one diagram I made *(inspired from Nvidia)*:
 ![](https://github.com/didiooi/beginnersguideML/blob/master/AI%20ML%20DL.png)
-*In short, Deep Learning is a subset of Machine Learning which is a subset of AI.*
+*(In short, Deep Learning is a subset of Machine Learning which is a subset of AI)*
 
 There is also another way to view this: **Supervised and Unsupervised Learning**. Supervised Learning includes Machine Learning while Unsupervised Learning includes Deep Learning and Reinforcement Learning.
 
@@ -41,7 +41,7 @@ There is also another way to view this: **Supervised and Unsupervised Learning**
 
  All of these are very similar but have different emphases.
  ![](https://github.com/didiooi/beginnersguideML/blob/master/Data%20Sci.png)
- *The goal is to be a **unicorn**.*
+ *(The goal is to be a **unicorn**.)*
  
 
 ## Programming Language
