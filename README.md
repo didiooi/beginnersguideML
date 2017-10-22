@@ -24,24 +24,26 @@ Last but not least, learn how data science and its architecture are being applie
 
 
 ## Introduction
-People often get confused with the differences between Machine Learning (ML), Deep Learning (DL) and how it relates to Artificial Intelligence (AI).
+People often get mixed-up with the term Machine Learning (ML), Deep Learning (DL) and how it relates to Artificial Intelligence (AI).
 
 Here is one diagram I made *(inspired from Nvidia)*:
 ![](https://github.com/didiooi/beginnersguideML/blob/master/AI%20ML%20DL.png)
 *(In short, Deep Learning is a subset of Machine Learning which is a subset of AI)*
 
-There is also another way to view this: **Supervised and Unsupervised Learning**. Supervised Learning includes Machine Learning while Unsupervised Learning includes Deep Learning and Reinforcement Learning.
+There is also another way to view this: **Supervised and Unsupervised Learning**. Supervised Learning includes Machine Learning while Unsupervised Learning includes Deep Learning and Reinforcement Learning.  
 
-### Behind the Hype: Terminologies Explained
+### Behind the Hype: Terminologies Explained...
 
-  Data Science: Extraction of knowledge and information from data, using integrated ideas from Mathematics, Statistics, Machine Learning, Computer Science, and Subject Matter Expertise (SME).
-  Big Data: Unstructured data from multiple sources arriving at an alarming **Velocity, Volume and Variety** and in format in which meaningful value and information is not leveraged from (yet). Machine Learning (ML): A field in computer science whereby the algorithm has the ability to learn without being explicitly programmed.  
-  Statistical Learning: Branch of applied statistics recently emerge in response to ML, emphasizing statistical models and assessment of uncertainty.  
- Deep Learning: A computational method for implementing machine learning using artificial neural network by building multiple layers of abstraction to solve complex semantic problems.
+- Data Science: Extraction of knowledge and information from data, using integrated ideas from Mathematics, Statistics, Machine Learning, Computer Science, and Subject Matter Expertise (SME).
+- Big Data: Unstructured data from multiple sources arriving at an alarming **Velocity, Volume and Variety** and in format in which meaningful value and information is not leveraged from (yet). Machine Learning (ML): A field in computer science whereby the algorithm has the ability to learn without being explicitly programmed.  
+- Statistical Learning: Branch of applied statistics recently emerge in response to ML, emphasizing statistical models and assessment of uncertainty.  
+-Deep Learning: A computational method for implementing machine learning using artificial neural network by building multiple layers of abstraction to solve complex semantic problems.
 
- All of these are very similar but have different emphases.
  ![](https://github.com/didiooi/beginnersguideML/blob/master/Data%20Sci.png)
  *(The goal is to be a **unicorn**.)*
+
+ All of the terminologies are very similar but have **different emphases**.
+
  
 
 ## Programming Language
