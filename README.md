@@ -3,7 +3,7 @@
 Content: Resources (hyperlinked!), Background, (very) Basic Introduction.
 
 ## My Long-Short Summary
-Like me, a lot of you are probably **not** coming from a computer science or statistics background. One of the most effective ways to pick up Data Science (especially Machine Learning and Deep Learning) is to: 
+Like me, a lot of you are probably **not** coming from a computer science or statistics background. One of the most effective way to pick up Data Science (especially Machine Learning and Deep Learning) is to: 
 1. PRACTICE, PRACTICE, PRACTICE *and* LEARN **at the same time**
 2. Post your repositories (project) on [Github](https://www.github.com) & [Kaggle](https://www.kaggle.com)
 3. Start participating in local [Hackathons](https://en.wikipedia.org/wiki/Hackathon) and/or on [Kaggle](https://www.kaggle.com) to try and solve real data.
