@@ -61,15 +61,17 @@ Read '[Python overtakes R, becomes the leader in Data Science, Machine Learning 
 - [Kaggle](https://www.kaggle.com/): Run through [tutorials](https://www.kaggle.com/wiki/Tutorials) and start with solving the [Titanic problem](https://www.kaggle.com/c/titanic) with Machine Learning! 
 - Forking from existing and popular [GitHub](https://www.github.com) repositories and play with it!
 
-## Learning Resources for Machine Learning
-Andrew Ng's Stanford [**Machine Learning** course](https://www.coursera.org/learn/machine-learning) is a great place to start if you already have a strong science and math background. For more theoretical background behind Statistical Learning, which is an advanced branch of statistics invented in conjunction with Machine Learning, your best bet will be [**Introduction to Statistical Learning**](http://www-bcf.usc.edu/~gareth/ISL/) If you want the classic beginner's guide to ML and needs some refresher with math, definitely go to Chris Bishop's [**Pattern Recognition**](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf). If you're feeling extra adventurous and would love to learn more theoretical and mathematical background, try Hastie's [Introduction to Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+## Resources for Machine Learning
+Andrew Ng's Stanford (now Google's) [**Machine Learning** course](https://www.coursera.org/learn/machine-learning) is a great place to start if you already have a strong science and math background. For the theoretical background behind Statistical Learning, which is an advanced branch of statistics invented in conjunction with Machine Learning, your best bet will be [**Introduction to Statistical Learning**](http://www-bcf.usc.edu/~gareth/ISL/).  
+If you want the *classic* beginner's guide to ML and needs some refresher with math, definitely go to Chris Bishop's [**Pattern Recognition**](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf).  
+If you're feeling extra adventurous and would love to learn the theoretical and mathematical background, try Hastie's [Introduction to Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
 ### Resources for Deep Learning
 - For **Deep Learning**, there is no other place to start with than Ian Goodfellow et al's [Deep Learning](http://www.deeplearningbook.org/) book.
-- Deep Learning course by Andrew Ng at [deeplearning.ai](https://www.deeplearning.ai/)
+- Deep Learning course by Ng at [deeplearning.ai](https://www.deeplearning.ai/)
 - Jeremy Howard's [Fast AI](http://course.fast.ai/)
-- [Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/) - cheat sheet containing for most architectures  
-- [Neural Network playground with TensorFlow](http://playground.tensorflow.org) - a web app that lets you play with a real neural network running in your browser and click buttons and tweak parameters to see how it works. If you are unsure of what pressing all that buttons mean, read [Google's blog](https://cloud.google.com/blog/big-data/2016/07/understanding-neural-networks-with-tensorflow-playground)
+- [Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/) - cheat sheet containing most NN architectures  
+- [Neural Network playground with TensorFlow](http://playground.tensorflow.org) - a web app that lets you play with a real neural network (NN) running in your browser and click buttons and tweak parameters to see how it works. If you are unsure of what pressing all that buttons mean, read [Google's blog](https://cloud.google.com/blog/big-data/2016/07/understanding-neural-networks-with-tensorflow-playground)
 
 ![](https://github.com/didiooi/beginnersguideML/blob/master/Picture1.png)
 
@@ -77,18 +79,20 @@ Andrew Ng's Stanford [**Machine Learning** course](https://www.coursera.org/lear
 [Alpha Go Zero](https://deepmind.com/blog/alphago-zero-learning-scratch/) - see how this AI that has nothing to learn from its humans
 [Basics](http://karpathy.github.io/2016/05/31/rl/)
 
-## News for Data Science and AI
+## News and Forums for Data Science and AI
 1. [KDNuggets](https://www.kdnuggets.com/)  
 2. Following the right people on [Twitter](https://twitter.com/didiooi/following) (Most of the people I follow on my Twitter are at the forefront of the Machine Learning and Deep Learning realm)  
-3. [Medium](https://medium.com) Short reads on all sorts of topics, including ML, DL, robotics (make sure to personalize your feed first)
+3. [Quora on Machine Learning](https://www.quora.com/topic/Machine-Learning): for pretty intelligent discussion
+4. [Medium](https://medium.com) Short reads on all sorts of topics, including ML, DL, robotics (make sure to personalize your feed first)    
+5. Reddit for hype-and-updates on [/MachineLearning](https://www.reddit.com/r/MachineLearning/)
 
 ## Data Visualization
-Now that you have the tools and resources, it is important to remember that [data visualization](https://en.wikipedia.org/wiki/Data_visualization) is an important front-end aspect to Data Science. This is because EFFECTIVE COMMUNICATION of data is crucial to all the work you have spent your blood, sweat and tears to share with your boss, stakeholders and/or clients. 
+Now that you have the tools and resources, it is important to remember that [data visualization](https://en.wikipedia.org/wiki/Data_visualization) is also an important front-end component to Data Science. This is because EFFECTIVE COMMUNICATION of data is crucial to all the work you have spent your blood, sweat and tears on, especially when you are sharing the results with your boss, stakeholders and/or clients. 
 The lack thereof is what gave rise to the other buzzword - **Business Intelligence** which includes tools like Microsoft Power BI, TIBCO Spotfire, Tableau (which are basically Excel on steroids).
-Inspired by Microsoft's Data Summit keynote by [Alberto Cairo](http://www.thefunctionalart.com) (modern data viz guru to [Edward Tufte](https://en.wikipedia.org/wiki/Edward_Tufte)) - here is a short read [6 Fundamentals of Data Visualization](https://www.linkedin.com/pulse/6-fundamental-principles-data-visualization-didi-sher-ooi/).
+Inspired by Microsoft's Data Summit 2017 keynote by [Alberto Cairo](http://www.thefunctionalart.com) (modern data viz guru to [Edward Tufte](https://en.wikipedia.org/wiki/Edward_Tufte)) - here is a short read [6 Fundamentals of Data Visualization](https://www.linkedin.com/pulse/6-fundamental-principles-data-visualization-didi-sher-ooi/) summarising it.
 
-## Help
-[StackExchange](https://stackexchange.com/): to ask for help in any data science or programming problems
+## Help and Forums
+[StackExchange](https://stackexchange.com/): to ask for help in any data science or programming problems  
 
 ## Key Takeaway
 The key takeaways that I have learned:
@@ -96,6 +100,6 @@ The key takeaways that I have learned:
 2. Data Science and its tools is **NOT magic**! You should remain skeptical and vigilant. Good data and proper internal validation is required.
 
 ## Questions
-Yes, this is what I decided to do on a Sunday morning after receiving requests from friends on how they can get started on the field over the last few weeks, so forgive any errors. Do let me know if you have any questions, at didi.ooi@bristol.ac.uk or at message me at [LinkedIn](https://www.linkedin.com/in/didiooi).
+Yes, this is what I decided to do on a Sunday morning after receiving requests from friends on how they can get started in the AI field over the last few weeks, so forgive any grammatical errors. Do let me know if you have any questions, at didi.ooi@bristol.ac.uk or at message me at [LinkedIn](https://www.linkedin.com/in/didiooi).
 
 
