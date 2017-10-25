@@ -49,8 +49,8 @@ There is also another way to view this: **Supervised and Unsupervised Learning**
 
  
 ## Programming Language To Learn
-1. [**Python**](https://www.python.org/) is the fastest growing language because of how dynamic and readable it is, so I'd suggest getting started with the basics of it.
-Read '[Python overtakes R, becomes the leader in Data Science, Machine Learning platforms](https://www.kdnuggets.com/2017/08/python-overtakes-r-leader-analytics-data-science.html)'  
+1. [**Python**](https://www.python.org/) is the fastest growing language because of how dynamic and readable it is, so I'd suggest getting started with the basics of it. If you're a complete beginner, like me, start with this Al Sweigart's no-fuss examples from [Automate The Boring Stuff with Python](https://automatetheboringstuff.com/).  
+Still not convinced that Python is beating R, Matlab etc? Read '[Python overtakes R, becomes the leader in Data Science, Machine Learning platforms](https://www.kdnuggets.com/2017/08/python-overtakes-r-leader-analytics-data-science.html)'  
 
 **Important Python Tools, Libraries**
 [*I will elaborate more on this in the future!*]
@@ -67,7 +67,7 @@ Read '[Python overtakes R, becomes the leader in Data Science, Machine Learning 
 2. [Tensorflow](https://www.tensorflow.org/): Google Brain's open source software library for Machine Learning
 3. [Theano](http://deeplearning.net/software/theano/): another Python library, I believe it is similar to NumPy
 4. [Keras](https://keras.io/): capable of running on top of Deeplearning4j, Tensorflow, Microsoft Cognitive Toolkit(CNTK) or Theano
-5. ...*and more but get to know the first two first!*.
+5. ...*and more but get to know the first two first maybe experiment it with examples from [Aurelion Geron's book](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/ref=sr_1_9?ie=UTF8&qid=1508900732&sr=8-9&keywords=reinforcement+learning)!*.
 
 ## Practice 
 - [Kaggle](https://www.kaggle.com/): Run through [tutorials](https://www.kaggle.com/wiki/Tutorials) and start with solving the [Titanic problem](https://www.kaggle.com/c/titanic) with Machine Learning! 
