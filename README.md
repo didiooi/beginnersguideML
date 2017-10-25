@@ -1,6 +1,6 @@
 # Getting Started with Data Science and AI
 *v1.0 October-22-2017*  
-Content: Resources (hyperlinked!), Background, (very) Basic Introduction.
+Repo Content: Resources (all hyperlinked for your convenience!), background, and (very) basic introduction.
 
 ## My Long-Short Summary
 Hello, a lot of you are probably **NOT** coming from a computer science or applied statistics background *(like myself)*. One of the most effective way to pick up Data Science (especially Machine Learning and Deep Learning) is to: 
