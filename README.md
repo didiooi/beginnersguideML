@@ -50,7 +50,7 @@ There is also another way to view this: **Supervised and Unsupervised Learning**
  
 ## Programming Language
 [**Python**](https://www.python.org/) is the fastest growing language because of how dynamic and readable it is, so I'd suggest getting started with the basics of it.  
-Read '[Python overtakes R, becomes the leader in Data Science, Machine Learning platforms](htrtps://www.kdnuggets.com/2017/08/python-overtakes-r-leader-analytics-data-science.html)'
+Read '[Python overtakes R, becomes the leader in Data Science, Machine Learning platforms](https://www.kdnuggets.com/2017/08/python-overtakes-r-leader-analytics-data-science.html)'
 
 **Important Python Tools, Libraries**  
 [Anaconda](https://anaconda.org/)  
