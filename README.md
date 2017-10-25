@@ -72,7 +72,7 @@ Still not convinced that Python is beating R, Matlab etc? Read '[Python overtake
 ## Practice 
 - [Kaggle](https://www.kaggle.com/): Run through [tutorials](https://www.kaggle.com/wiki/Tutorials) and start with solving the [Titanic problem](https://www.kaggle.com/c/titanic) with Machine Learning! 
 - Forking from existing and popular [GitHub](https://www.github.com) repositories and play with it!
-- It will also be extremely USEFUL to have these 30 essential data science, ML and DL [**CHEAT SHEETS**](https://www.kdnuggets.com/2017/09/essential-data-science-machine-learning-deep-learning-cheat-sheets.html) next to you at all times, posted on your corkboard at work, at home and by your bedsie.  
+- It will also be extremely USEFUL to have these 30 essential data science, ML and DL [**CHEAT SHEETS**](https://www.kdnuggets.com/2017/09/essential-data-science-machine-learning-deep-learning-cheat-sheets.html) next to you at all times, posted on your corkboard at work, at home and by your bedside.  
 
 ## Resources for Machine Learning
 Andrew Ng's Stanford (now Google's) [**Machine Learning** course](https://www.coursera.org/learn/machine-learning) is a great place to start if you already have a strong science and math background. For the theoretical background behind Statistical Learning, which is an advanced branch of statistics invented in conjunction with Machine Learning, your best bet will be [**Introduction to Statistical Learning**](http://www-bcf.usc.edu/~gareth/ISL/). The book is free to access online!  
