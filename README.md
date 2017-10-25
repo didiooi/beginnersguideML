@@ -114,6 +114,6 @@ The key takeaways that I have learned:
 2. Data Science and its tools is **NOT magic**! You should remain skeptical and vigilant. Good data and proper internal validation is required.
 
 ## Questions
-Yes, this is what I decided to do on a Sunday morning after receiving requests from friends on how they can get started in the AI field over the last few weeks, so forgive any grammatical errors. Do let me know if you have any questions, at didi.ooi@bristol.ac.uk or at message me at [LinkedIn](https://www.linkedin.com/in/didiooi).
+Yes, this is what I decided to do on a Sunday morning after receiving requests from friends on how they can get started in the AI field over the last few weeks, so forgive any grammatical errors. Do let me know if you have any questions, at didi.ooi@bristol.ac.uk or message me at [LinkedIn](https://www.linkedin.com/in/didiooi).
 
 
