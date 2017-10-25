@@ -45,17 +45,29 @@ There is also another way to view this: **Supervised and Unsupervised Learning**
  ![](https://github.com/didiooi/beginnersguideML/blob/master/Data%20Sci.png)
  *(The goal is to be a **unicorn**.)*
 
- All of the terminologies are very similar but have **different emphases**.
+ All of the terminologies are very similar but have **DIFFERENT EMPHASES**.
 
  
-## Programming Language
-[**Python**](https://www.python.org/) is the fastest growing language because of how dynamic and readable it is, so I'd suggest getting started with the basics of it.  
-Read '[Python overtakes R, becomes the leader in Data Science, Machine Learning platforms](https://www.kdnuggets.com/2017/08/python-overtakes-r-leader-analytics-data-science.html)'
+## Programming Language To Learn
+1. [**Python**](https://www.python.org/) is the fastest growing language because of how dynamic and readable it is, so I'd suggest getting started with the basics of it.
+Read '[Python overtakes R, becomes the leader in Data Science, Machine Learning platforms](https://www.kdnuggets.com/2017/08/python-overtakes-r-leader-analytics-data-science.html)'  
 
-**Important Python Tools, Libraries**  
+**Important Python Tools, Libraries**
+[*I will elaborate more on this in the future!*]
 [Anaconda](https://anaconda.org/)  
 [Jupyter Notebook](http://jupyter.org/)  
-[Scikit-Learn](http://scikit-learn.org)  
+[Numpy](www.numpy.org): arrays and matrices support
+[SciPy](https://www.scipy.org): stats, maths, engineering
+[Pandas](www.pandas.pydata.org): data structures 
+[Matplotlib](https://matplotlib.org): data visualization (2D plotting)
+[Seaborn](https://seaborn.pydata.org): higher level data viz
+
+## Open Source Machine Learning libraries
+1. [Scikit-Learn](http://scikit-learn.org): for the Pythonista
+2. [Tensorflow](https://www.tensorflow.org/): Google Brain's open source software library for Machine Learning
+3. [Theano](http://deeplearning.net/software/theano/): another Python library, I believe it is similar to NumPy
+4. [Keras](https://keras.io/): capable of running on top of Deeplearning4j, Tensorflow, Microsoft Cognitive Toolkit(CNTK) or Theano
+5. ...*and more but get to know the first two first!*.
 
 ## Practice 
 - [Kaggle](https://www.kaggle.com/): Run through [tutorials](https://www.kaggle.com/wiki/Tutorials) and start with solving the [Titanic problem](https://www.kaggle.com/c/titanic) with Machine Learning! 
