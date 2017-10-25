@@ -22,7 +22,7 @@ From finding out about Meetup in the summer 2017 *(yes I am the late bloomer)*, 
 ![](https://github.com/didiooi/beginnersguideML/blob/master/Hackathon.jpg)
 *(At the more recent SEG Geophysics Hackathon)*
 
-Last but not least, learn how data science and its architecture are being applied in the **REAL WORLD**. Start by figuring out which **industries you are interested in**, research about how they are integrating traditional methods and products with advanced analytics and emerging technologies into their existing or future products, workflow or supply chain etc. Then VOILA! Your journey begins!
+Last but not least, learn how data science and its architectures are being applied in the **REAL WORLD**. Start by figuring out which **industries you are interested in**, research about how they are integrating traditional methods and products with advanced analytics and emerging technologies into their existing or future products, workflow or supply chain etc. Then VOILA! Your journey begins!
 
 
 ## Background
