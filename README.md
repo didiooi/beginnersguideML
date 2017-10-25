@@ -62,12 +62,12 @@ Read '[Python overtakes R, becomes the leader in Data Science, Machine Learning 
 - Forking from existing and popular [GitHub](https://www.github.com) repositories and play with it!
 
 ## Resources for Machine Learning
-Andrew Ng's Stanford (now Google's) [**Machine Learning** course](https://www.coursera.org/learn/machine-learning) is a great place to start if you already have a strong science and math background. For the theoretical background behind Statistical Learning, which is an advanced branch of statistics invented in conjunction with Machine Learning, your best bet will be [**Introduction to Statistical Learning**](http://www-bcf.usc.edu/~gareth/ISL/).  
+Andrew Ng's Stanford (now Google's) [**Machine Learning** course](https://www.coursera.org/learn/machine-learning) is a great place to start if you already have a strong science and math background. For the theoretical background behind Statistical Learning, which is an advanced branch of statistics invented in conjunction with Machine Learning, your best bet will be [**Introduction to Statistical Learning**](http://www-bcf.usc.edu/~gareth/ISL/). The book is free to access online!  
 If you want the *classic* beginner's guide to ML and needs some refresher with math, definitely go to Chris Bishop's [**Pattern Recognition**](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf).  
 If you're feeling extra adventurous and would love to learn the theoretical and mathematical background, try Hastie's [Introduction to Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
 ### Resources for Deep Learning
-- For **Deep Learning**, there is no other place to start with than Ian Goodfellow et al's [Deep Learning](http://www.deeplearningbook.org/) book.
+- For **Deep Learning**, there is no other place to start with than Ian Goodfellow et al's [Deep Learning](http://www.deeplearningbook.org/) book. It is FREE online too.
 - Deep Learning course by Ng at [deeplearning.ai](https://www.deeplearning.ai/)
 - Jeremy Howard's [Fast AI](http://course.fast.ai/)
 - [Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/) - cheat sheet containing most NN architectures  
@@ -76,8 +76,9 @@ If you're feeling extra adventurous and would love to learn the theoretical and 
 ![](https://github.com/didiooi/beginnersguideML/blob/master/Picture1.png)
 
 ## Reinforcement Learning
-[Alpha Go Zero](https://deepmind.com/blog/alphago-zero-learning-scratch/) - see how this AI that has nothing to learn from its humans
-[Basics](http://karpathy.github.io/2016/05/31/rl/)
+- [NEWS ALERT: Alpha Go Zero](https://deepmind.com/blog/alphago-zero-learning-scratch/) - see how this AI that has nothing to learn from its human.  
+- [Brief Introduction](http://karpathy.github.io/2016/05/31/rl/)
+- Resources include [Barto and Sutton's classic RL book](http://incompleteideas.net/sutton/book/ebook/the-book.html) - which is free online  
 
 ## News and Forums for Data Science and AI
 1. [KDNuggets](https://www.kdnuggets.com/)  
