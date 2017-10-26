@@ -6,27 +6,32 @@ Repo Content: Resources (all hyperlinked for your convenience!), background, and
 Hello, a lot of you are probably **NOT** coming from a computer science or applied statistics background *(like myself)*. One of the most effective way to pick up Data Science (especially Machine Learning and Deep Learning) is to: 
 1. PRACTICE, PRACTICE, PRACTICE *and* LEARN **at the same time**
 2. Post your repositories (project) on [Github](https://www.github.com) & [Kaggle](https://www.kaggle.com)
-3. Start participating in local [Hackathons](https://en.wikipedia.org/wiki/Hackathon) and/or on [Kaggle](https://www.kaggle.com) to try and solve real data.
+3. Start participating in local [Hackathons](https://en.wikipedia.org/wiki/Hackathon) and/or on [Kaggle Competitions](https://www.kaggle.com/competitions) to try and solve real data.
 
-The list above is not necessarily in order. Half of the people I talked to are more comfortable with 1, 2 and then 3. Which is akin to a traditional education (the top-down approach). Some people are a bit more adventurous, starting with 3, then 2 then 1 (like myself)! I decide to visit my first hackathon [Houston Hackathon](http://houstonhackathon.com/) this year to find out what it is all about - only to get pulled in one project, and then another [one](https://www.hackathon.com/event/geophysics-hackathon-2017-36373291494)! If you like learning-on-the-go and love solving problems and don't mind being thrown into an unknown pit, then this is the way to go.
+The list above is not necessarily in order. Half of the people I talked to are more comfortable with 1, 2 and then 3. Which is akin to a traditional education (the top-down approach). Some people are a bit more adventurous, starting with 3, then 2 then 1 (like myself)! I decide to visit my first hackathon [Houston Hackathon](http://houstonhackathon.com/) this year to find out what it is all about - only to get pulled in one project, and then another [one](https://www.hackathon.com/event/geophysics-hackathon-2017-36373291494)! If you like learning-on-the-go and love solving problems and don't mind being thrown into an unknown pit, then this is the way to go.  
+
+### PRACTICE AND LEARN (AT THE SAME TIME)
 
 The reason why I said **practice and learn** 'at the same time' is that:
 - PRACTICING allows you to apply the **TOOLS** that you need to solve your data science problem with existing repositories without wasting time to start from ground up. I believe practicing it this way from top-down is much faster than the traditional learning we have all been exposed to (especially me!)
 - LEARNING is crucial to understand **WHY** did you apply the tools that you did i.e. why did you choose the algorithms and the background math that shaped it. You're not a Data Scientist if you're just the end-user of tools!
 
-### JOIN INTEREST GROUPS  
+### PARTICIPATE IN INTEREST GROUPS  
 
-NEXT STEP, if you live in medium/big cities - go out of your comfort zone and meet other people in the AI/DS field, in your area. Use [MeetUp](http://www.meetup.com/) or [Eventbrite](https://www.eventbrite.com) whereby 99% of these free events/meetups cater to like-minded people of various degree of experience! *If there isn't one, then be the one to organize the first in your area!*
-From finding out about Meetup in the summer 2017 *(yes I am the late bloomer)*, I now regularly go to [Houston Data Science](https://www.meetup.com/Houston-Data-Science/), [Houston Machine Learning](https://www.meetup.com/Houston-Machine-Learning/), [Houston Energy Data Science](https://www.meetup.com/Houston-Energy-Data-Science-Meetup/) and [Houston Data Visualization](https://www.meetup.com/Houston-Data-Visualization-Meetup/) groups and I definitely learned a lot by talking to people, asking questions, or sitting in lectures. 
+NEXT STEP, if you live in medium/big cities - go out of your comfort zone and meet other people in the AI/DS field, in your area. Changes are your city already has plenty of [MeetUps](http://www.meetup.com/) or [Eventbrite events](https://www.eventbrite.com) where you can go participate and sit in. 99% of these free events/meetups cater to like-minded people of **various** degree of experiences! Houston's Machine Learning and Energy Data Science Meetups have between 3 - 20 NEW people, up to half of them without the background/degree BUT they have the subject matter expertise they want to use this technology to solve problems.  
+
+*If there isn't one, then be the one to organize the first in your area!*  
+
+From finding out about Meetup in the summer 2017 *(yes I am the late bloomer)*, I now regularly go to [Houston Data Science](https://www.meetup.com/Houston-Data-Science/), [Houston Machine Learning](https://www.meetup.com/Houston-Machine-Learning/), [Houston Energy Data Science](https://www.meetup.com/Houston-Energy-Data-Science-Meetup/) and [Houston Data Visualization](https://www.meetup.com/Houston-Data-Visualization-Meetup/) groups and I definitely learned a lot by talking to people, asking questions, or sitting in lectures.  
 
 (**Be warned** that it can be intimidating at first, but understand and expect that you will leave from first few Meetups with 0.1 to 5% comprehension of the whole learning experience and that is COMPLETELY NORMAL. Keep an open mind, be eager to learn and you will realize how that percentage of comprehension grows over time. It is easier and faster than just learning the theoretical background from books and courses but most importantly, it will reinforce your theoretical learning.)
 
 ![](https://github.com/didiooi/beginnersguideML/blob/master/Hackathon.jpg)
 *(At the more recent SEG Geophysics Hackathon)*  
 
-### REAL WORLD APPLICATION  
-
-Last but not least, learn how data science and its architectures are being applied in the **REAL WORLD**. Start by figuring out which **industries you are interested in**, research about how they are integrating traditional methods and products with advanced analytics and emerging technologies into their existing or future products, workflow or supply chain etc. Then VOILA! Your journey begins!
+### UNDERSTAND HOW IT IS BEING APPLIED  
+Last but not least, learn how data science and its architectures are being applied in the **REAL WORLD**. Start by figuring out which **industries you are interested in**, research about how they are integrating traditional methods and products with advanced analytics and emerging technologies into their existing or future products, workflow or supply chain etc. 
+Be that Then VOILA! Your journey begins!
 
 
 ## Background
@@ -44,9 +49,11 @@ There is also another way to view this: **Supervised and Unsupervised Learning**
 - Big Data: Unstructured data from multiple sources arriving at an alarming **Velocity, Volume and Variety** and in format in which meaningful value and information is not leveraged from (yet).  
 - Machine Learning (ML): A field in computer science whereby the algorithm has the ability to learn without being explicitly programmed.  
 - Statistical Learning: Branch of applied statistics recently emerge in response to ML, emphasizing statistical models and assessment of uncertainty.  
-- Deep Learning (DL): A computational method for implementing machine learning using artificial neural network by building multiple layers of abstraction to solve complex semantic problems.
+- Deep Learning (DL): A computational method for implementing machine learning using artificial neural network by building multiple layers of abstraction to solve complex semantic problems.  
+- Reinforcement Learning (RL): An extremely promising new area using the trial-and-error paradigm where the (computing) Agent learns and corrects its Action based on Reward signals and State.  
 
- ![](https://github.com/didiooi/beginnersguideML/blob/master/Data%20Sci.png)
+ ![](https://github.com/didiooi/beginnersguideML/blob/master/Data%20Sci.png)  
+ Notice the importance of a subject matter expertise in the equation. Don't ditch your science degree/masters and jump straight on the Data Science and AI bandwagon - your skillsets from your courses are still valuable, it will make you the subject matter expertise and think about how you can use AI for your industry/field of research.
  *(The goal is to be a **unicorn**.)*
 
  All of the terminologies are very similar but have **DIFFERENT EMPHASES**.
