@@ -2,7 +2,7 @@
 *v1.0 October-22-2017*  
 Repo Content: Resources (all hyperlinked for your convenience!), background, and (very) basic introduction.
 
-## My Long-Short Summary
+## 1. My Long-Short Summary
 Hello, a lot of you are probably **NOT** coming from a computer science or applied statistics background *(like myself)*. One of the most effective way to pick up Data Science (especially Machine Learning and Deep Learning) is to: 
 1. PRACTICE, PRACTICE, PRACTICE *and* LEARN **at the same time**
 2. Post your repositories (project) on [Github](https://www.github.com) & [Kaggle](https://www.kaggle.com)
@@ -34,7 +34,7 @@ Last but not least, learn how data science and its architectures are being appli
 Be that Then VOILA! Your journey begins!
 
 
-## Background for the Newbies
+## 2. Background for the Newbies
 People often get mixed-up with the term Machine Learning (ML), Deep Learning (DL) and how it relates to Artificial Intelligence (AI).
 
 Here is one diagram I made *(inspired from Nvidia)*:
@@ -59,8 +59,39 @@ There is also another way to view this: **Supervised and Unsupervised Learning**
  All of the terminologies are very similar but have **DIFFERENT EMPHASES**.
 
  
-## Programming Language To Learn
-1. [**Python**](https://www.python.org/) is the fastest growing language because of how dynamic and readable it is, so I'd suggest getting started with the basics of it. If you're a complete beginner, like me, start with this Al Sweigart's no-fuss examples from [Automate The Boring Stuff with Python](https://automatetheboringstuff.com/).  
+
+## 3. Practice 
+- [Kaggle](https://www.kaggle.com/): Run through [tutorials](https://www.kaggle.com/wiki/Tutorials) and start with solving the [Titanic problem](https://www.kaggle.com/c/titanic) with Machine Learning! 
+- Forking from existing and popular [GitHub](https://www.github.com) repositories and play with it!
+- It will also be extremely USEFUL to have these 30 essential data science, ML and DL [**CHEAT SHEETS**](https://www.kdnuggets.com/2017/09/essential-data-science-machine-learning-deep-learning-cheat-sheets.html) next to you at all times, posted on your corkboard at work, at home and by your bedside.  
+
+## 4. Resources  
+
+### MACHINE LEARNING
+Andrew Ng's Stanford (now Google's) [**Machine Learning** course](https://www.coursera.org/learn/machine-learning) is a great place to start if you already have a strong science and math background. For the theoretical background behind Statistical Learning, which is an advanced branch of statistics invented in conjunction with Machine Learning, your best bet will be [**Introduction to Statistical Learning**](http://www-bcf.usc.edu/~gareth/ISL/). The book is free to access online!  
+If you want the *classic* beginner's guide to ML and needs some refresher with math, definitely go to Chris Bishop's [**Pattern Recognition**](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf).  
+If you're feeling extra adventurous and would love to learn the theoretical and mathematical background, try Hastie's [Introduction to Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+
+### DEEP LEARNING
+- For **Deep Learning**, there is no other place to start with than Ian Goodfellow et al's [Deep Learning](http://www.deeplearningbook.org/) book. It is FREE online too.
+- Deep Learning course by Ng at [deeplearning.ai](https://www.deeplearning.ai/)
+- Jeremy Howard's [Fast AI](http://course.fast.ai/)
+- [Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/) - cheat sheet containing most NN architectures  
+- [Neural Network playground with TensorFlow](http://playground.tensorflow.org) - a web app that lets you play with a real neural network (NN) running in your browser and click buttons and tweak parameters to see how it works. If you are unsure of what pressing all that buttons mean, read [Google's blog](https://cloud.google.com/blog/big-data/2016/07/understanding-neural-networks-with-tensorflow-playground)
+
+![](https://github.com/didiooi/beginnersguideML/blob/master/Picture1.png)
+
+### REINFORCEMENT LEARNING
+- [NEWS ALERT: Alpha Go Zero](https://deepmind.com/blog/alphago-zero-learning-scratch/) - see how this AI that has nothing to learn from its human.  
+- [Brief Introduction](http://karpathy.github.io/2016/05/31/rl/)
+- Resources include [Barto and Sutton's classic RL book](http://incompleteideas.net/sutton/book/ebook/the-book.html) - which is free online  
+
+
+## 5. Programming Language  
+With so many languages out there and people preaching on theirs to use, it is easy to get overwhelmed. For complete newbies, I definitely recommend Python.  
+
+[**Python**](https://www.python.org/) is the fastest growing language because of how dynamic and readable it is, so I'd suggest getting started with the basics of it. If you're a complete beginner, like me, start with this Al Sweigart's no-fuss examples from [Automate The Boring Stuff with Python](https://automatetheboringstuff.com/).  
+
 Still not convinced that Python is beating R, Matlab etc? Read '[Python overtakes R, becomes the leader in Data Science, Machine Learning platforms](https://www.kdnuggets.com/2017/08/python-overtakes-r-leader-analytics-data-science.html)'  
 
 **Important Python Tools, Libraries**  
@@ -73,50 +104,26 @@ Still not convinced that Python is beating R, Matlab etc? Read '[Python overtake
 - [Matplotlib](https://matplotlib.org): data visualization (2D plotting)
 - [Seaborn](https://seaborn.pydata.org): higher level data viz
 
-## Open Source Machine Learning libraries
+## 6. Open Source Machine Learning libraries
 1. [Scikit-Learn](http://scikit-learn.org): for the Pythonista
 2. [Tensorflow](https://www.tensorflow.org/): Google Brain's open source software library for Machine Learning
 3. [Theano](http://deeplearning.net/software/theano/): another Python library, I believe it is similar to NumPy
 4. [Keras](https://keras.io/): capable of running on top of Deeplearning4j, Tensorflow, Microsoft Cognitive Toolkit(CNTK) or Theano
 5. ...*and more but get to know the first two first maybe experiment it with examples from [Aurelion Geron's book](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/ref=sr_1_9?ie=UTF8&qid=1508900732&sr=8-9&keywords=reinforcement+learning)!*.
 
-## Practice 
-- [Kaggle](https://www.kaggle.com/): Run through [tutorials](https://www.kaggle.com/wiki/Tutorials) and start with solving the [Titanic problem](https://www.kaggle.com/c/titanic) with Machine Learning! 
-- Forking from existing and popular [GitHub](https://www.github.com) repositories and play with it!
-- It will also be extremely USEFUL to have these 30 essential data science, ML and DL [**CHEAT SHEETS**](https://www.kdnuggets.com/2017/09/essential-data-science-machine-learning-deep-learning-cheat-sheets.html) next to you at all times, posted on your corkboard at work, at home and by your bedside.  
-
-## Resources for Machine Learning
-Andrew Ng's Stanford (now Google's) [**Machine Learning** course](https://www.coursera.org/learn/machine-learning) is a great place to start if you already have a strong science and math background. For the theoretical background behind Statistical Learning, which is an advanced branch of statistics invented in conjunction with Machine Learning, your best bet will be [**Introduction to Statistical Learning**](http://www-bcf.usc.edu/~gareth/ISL/). The book is free to access online!  
-If you want the *classic* beginner's guide to ML and needs some refresher with math, definitely go to Chris Bishop's [**Pattern Recognition**](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf).  
-If you're feeling extra adventurous and would love to learn the theoretical and mathematical background, try Hastie's [Introduction to Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
-
-### Resources for Deep Learning
-- For **Deep Learning**, there is no other place to start with than Ian Goodfellow et al's [Deep Learning](http://www.deeplearningbook.org/) book. It is FREE online too.
-- Deep Learning course by Ng at [deeplearning.ai](https://www.deeplearning.ai/)
-- Jeremy Howard's [Fast AI](http://course.fast.ai/)
-- [Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/) - cheat sheet containing most NN architectures  
-- [Neural Network playground with TensorFlow](http://playground.tensorflow.org) - a web app that lets you play with a real neural network (NN) running in your browser and click buttons and tweak parameters to see how it works. If you are unsure of what pressing all that buttons mean, read [Google's blog](https://cloud.google.com/blog/big-data/2016/07/understanding-neural-networks-with-tensorflow-playground)
-
-![](https://github.com/didiooi/beginnersguideML/blob/master/Picture1.png)
-
-## Reinforcement Learning
-- [NEWS ALERT: Alpha Go Zero](https://deepmind.com/blog/alphago-zero-learning-scratch/) - see how this AI that has nothing to learn from its human.  
-- [Brief Introduction](http://karpathy.github.io/2016/05/31/rl/)
-- Resources include [Barto and Sutton's classic RL book](http://incompleteideas.net/sutton/book/ebook/the-book.html) - which is free online  
-
-## News and Forums for Data Science and AI
+## 7. News and Forums for Data Science and AI
 1. [KDNuggets](https://www.kdnuggets.com/)  
 2. Following the right people on [Twitter](https://twitter.com/didiooi/following) (Most of the people I follow on my Twitter are at the forefront of the Machine Learning and Deep Learning realm)  
 3. [Quora on Machine Learning](https://www.quora.com/topic/Machine-Learning): for pretty intelligent discussion
 4. [Medium](https://medium.com) Short reads on all sorts of topics, including ML, DL, robotics (make sure to personalize your feed first)    
 5. Reddit for hype-and-updates on [/MachineLearning](https://www.reddit.com/r/MachineLearning/)
 
-## Data Visualization
+## 8. Data Visualization
 Now that you have the tools and resources, it is important to remember that [data visualization](https://en.wikipedia.org/wiki/Data_visualization) is also an important front-end component to Data Science. This is because EFFECTIVE COMMUNICATION of data is crucial to all the work you have spent your blood, sweat and tears on, especially when you are sharing the results with your boss, stakeholders and/or clients. 
 The lack thereof is what gave rise to the other buzzword - **Business Intelligence** which includes tools like Microsoft Power BI, TIBCO Spotfire, Tableau (which are basically Excel on steroids).
 Inspired by Microsoft's Data Summit 2017 keynote by [Alberto Cairo](http://www.thefunctionalart.com) (modern data viz guru to [Edward Tufte](https://en.wikipedia.org/wiki/Edward_Tufte)) - here is a short read [6 Fundamentals of Data Visualization](https://www.linkedin.com/pulse/6-fundamental-principles-data-visualization-didi-sher-ooi/) summarising it.
 
-## Help and Forums
+## 9. Help and Forums
 [StackExchange](https://stackexchange.com/): to ask for help in any data science or programming problems  
 
 ## Key Takeaway
@@ -124,7 +131,7 @@ The key takeaways that I have learned:
 1. You do not need to know advanced coding to get into Data Science or Machine Learning etc, do it from top-down
 2. Data Science and its tools is **NOT magic**! You should remain skeptical and vigilant. Good data and proper internal validation is required.
 
-## Questions
+## Questions?
 Yes, this is what I decided to do on a Sunday morning after receiving requests from friends on how they can get started in the AI field over the last few weeks, so forgive any grammatical errors. Do let me know if you have any questions, at didi.ooi@bristol.ac.uk or message me at [LinkedIn](https://www.linkedin.com/in/didiooi).
 
 
