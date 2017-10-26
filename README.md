@@ -14,13 +14,17 @@ The reason why I said **practice and learn** 'at the same time' is that:
 - PRACTICING allows you to apply the **TOOLS** that you need to solve your data science problem with existing repositories without wasting time to start from ground up. I believe practicing it this way from top-down is much faster than the traditional learning we have all been exposed to (especially me!)
 - LEARNING is crucial to understand **WHY** did you apply the tools that you did i.e. why did you choose the algorithms and the background math that shaped it. You're not a Data Scientist if you're just the end-user of tools!
 
+### JOIN INTEREST GROUPS  
+
 NEXT STEP, if you live in medium/big cities - go out of your comfort zone and meet other people in the AI/DS field, in your area. Use [MeetUp](http://www.meetup.com/) or [Eventbrite](https://www.eventbrite.com) whereby 99% of these free events/meetups cater to like-minded people of various degree of experience! *If there isn't one, then be the one to organize the first in your area!*
 From finding out about Meetup in the summer 2017 *(yes I am the late bloomer)*, I now regularly go to [Houston Data Science](https://www.meetup.com/Houston-Data-Science/), [Houston Machine Learning](https://www.meetup.com/Houston-Machine-Learning/), [Houston Energy Data Science](https://www.meetup.com/Houston-Energy-Data-Science-Meetup/) and [Houston Data Visualization](https://www.meetup.com/Houston-Data-Visualization-Meetup/) groups and I definitely learned a lot by talking to people, asking questions, or sitting in lectures. 
 
 (**Be warned** that it can be intimidating at first, but understand and expect that you will leave from first few Meetups with 0.1 to 5% comprehension of the whole learning experience and that is COMPLETELY NORMAL. Keep an open mind, be eager to learn and you will realize how that percentage of comprehension grows over time. It is easier and faster than just learning the theoretical background from books and courses but most importantly, it will reinforce your theoretical learning.)
 
 ![](https://github.com/didiooi/beginnersguideML/blob/master/Hackathon.jpg)
-*(At the more recent SEG Geophysics Hackathon)*
+*(At the more recent SEG Geophysics Hackathon)*  
+
+### REAL WORLD APPLICATION  
 
 Last but not least, learn how data science and its architectures are being applied in the **REAL WORLD**. Start by figuring out which **industries you are interested in**, research about how they are integrating traditional methods and products with advanced analytics and emerging technologies into their existing or future products, workflow or supply chain etc. Then VOILA! Your journey begins!
 
@@ -52,15 +56,15 @@ There is also another way to view this: **Supervised and Unsupervised Learning**
 1. [**Python**](https://www.python.org/) is the fastest growing language because of how dynamic and readable it is, so I'd suggest getting started with the basics of it. If you're a complete beginner, like me, start with this Al Sweigart's no-fuss examples from [Automate The Boring Stuff with Python](https://automatetheboringstuff.com/).  
 Still not convinced that Python is beating R, Matlab etc? Read '[Python overtakes R, becomes the leader in Data Science, Machine Learning platforms](https://www.kdnuggets.com/2017/08/python-overtakes-r-leader-analytics-data-science.html)'  
 
-**Important Python Tools, Libraries**
+**Important Python Tools, Libraries**  
 [*I will elaborate more on this in the future!*]
-[Anaconda](https://anaconda.org/)  
-[Jupyter Notebook](http://jupyter.org/)  
-[Numpy](www.numpy.org): arrays and matrices support
-[SciPy](https://www.scipy.org): stats, maths, engineering
-[Pandas](www.pandas.pydata.org): data structures 
-[Matplotlib](https://matplotlib.org): data visualization (2D plotting)
-[Seaborn](https://seaborn.pydata.org): higher level data viz
+- [Anaconda](https://anaconda.org/)  
+- [Jupyter Notebook](http://jupyter.org/)  
+- [Numpy](www.numpy.org): arrays and matrices support
+- [SciPy](https://www.scipy.org): stats, maths, engineering
+- [Pandas](www.pandas.pydata.org): data structures 
+- [Matplotlib](https://matplotlib.org): data visualization (2D plotting)
+- [Seaborn](https://seaborn.pydata.org): higher level data viz
 
 ## Open Source Machine Learning libraries
 1. [Scikit-Learn](http://scikit-learn.org): for the Pythonista
