@@ -34,7 +34,7 @@ Last but not least, learn how data science and its architectures are being appli
 Be that Then VOILA! Your journey begins!
 
 
-## Background
+## Background for the Newbies
 People often get mixed-up with the term Machine Learning (ML), Deep Learning (DL) and how it relates to Artificial Intelligence (AI).
 
 Here is one diagram I made *(inspired from Nvidia)*:
@@ -43,14 +43,14 @@ Here is one diagram I made *(inspired from Nvidia)*:
 
 There is also another way to view this: **Supervised and Unsupervised Learning**. Supervised Learning includes Machine Learning while Unsupervised Learning includes Deep Learning and Reinforcement Learning.  
 
-### Behind the Hype: Terminologies Explained...
+### BEHIND THE HYPE: TERMINOLOGIES EXPLAINED
 
-- Data Science: Extraction of knowledge and information from data, using integrated ideas from Mathematics, Statistics, Machine Learning, Computer Science, and Subject Matter Expertise (SME).
-- Big Data: Unstructured data from multiple sources arriving at an alarming **Velocity, Volume and Variety** and in format in which meaningful value and information is not leveraged from (yet).  
-- Machine Learning (ML): A field in computer science whereby the algorithm has the ability to learn without being explicitly programmed.  
-- Statistical Learning: Branch of applied statistics recently emerge in response to ML, emphasizing statistical models and assessment of uncertainty.  
-- Deep Learning (DL): A computational method for implementing machine learning using artificial neural network by building multiple layers of abstraction to solve complex semantic problems.  
-- Reinforcement Learning (RL): An extremely promising new area using the trial-and-error paradigm where the (computing) Agent learns and corrects its Action based on Reward signals and State.  
+- **Data Science**: Extraction of knowledge and information from data, using integrated ideas from Mathematics, Statistics, Machine Learning, Computer Science, and Subject Matter Expertise (SME).
+- **Big Data**: Unstructured data from multiple sources arriving at an alarming **Velocity, Volume and Variety** and in format in which meaningful value and information is not leveraged from (yet).  
+- **Machine Learning** (ML): A field in computer science whereby the algorithm has the ability to learn without being explicitly programmed.  
+- **Statistical Learning**: Branch of applied statistics recently emerge in response to ML, emphasizing statistical models and assessment of uncertainty.  
+- **Deep Learning** (DL): A computational method for implementing machine learning using artificial neural network by building multiple layers of abstraction to solve complex semantic problems.  
+- **Reinforcement Learning** (RL): An extremely promising new area using the trial-and-error paradigm where the (computing) Agent learns and corrects its Action based on Reward signals and State.  
 
  ![](https://github.com/didiooi/beginnersguideML/blob/master/Data%20Sci.png)  
  Notice the importance of a subject matter expertise in the equation. Don't ditch your science degree/masters and jump straight on the Data Science and AI bandwagon - your skillsets from your courses are still valuable, it will make you the subject matter expertise and think about how you can use AI for your industry/field of research.
