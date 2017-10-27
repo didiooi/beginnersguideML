@@ -27,7 +27,7 @@ From finding out about Meetup in the summer 2017 *(yes I am the late bloomer)*, 
 (**Be warned** that it can be intimidating at first, but understand and expect that you will leave from first few Meetups with 0.1 to 5% comprehension of the whole learning experience and that is COMPLETELY NORMAL. Keep an open mind, be eager to learn and you will realize how that percentage of comprehension grows over time. It is easier and faster than just learning the theoretical background from books and courses but most importantly, it will reinforce your theoretical learning.)
 
 ![](https://github.com/didiooi/beginnersguideML/blob/master/Hackathon.jpg)
-*(At the more recent SEG Geophysics Hackathon)*  
+*(At the more recent [Agile* Geophysics Hackathon](https://agilescientific.com/blog/2017/9/29/hacking-in-houston) in Houston!)*  
 
 ### UNDERSTAND HOW IT IS BEING APPLIED  
 Last but not least, learn how data science and its architectures are being applied in the **REAL WORLD**. Start by figuring out which **industries you are interested in**, research about how they are integrating traditional methods and products with advanced analytics and emerging technologies into their existing or future products, workflow or supply chain etc. 
