@@ -115,17 +115,16 @@ Still not convinced that Python is beating R, Matlab etc? Read '[Python overtake
 ## 7. News and Forums for Data Science and AI
 1. [KDNuggets](https://www.kdnuggets.com/)  
 2. Following the right people on [Twitter](https://twitter.com/didiooi/following) (Most of the people I follow on my Twitter are at the forefront of the Machine Learning and Deep Learning realm)  
-3. [Quora on Machine Learning](https://www.quora.com/topic/Machine-Learning): for pretty intelligent discussion
+3. [Quora on Machine Learning](https://www.quora.com/topic/Machine-Learning): for pretty intelligent discussion you can just simply follow the [top/most viewed writers](https://www.quora.com/topic/Machine-Learning/writers), like [Andrew Ng](https://www.quora.com/profile/Andrew-Ng)
 4. [Medium](https://medium.com) Short reads on all sorts of topics, including ML, DL, robotics (make sure to personalize your feed first)    
 5. Reddit for hype-and-updates on [/MachineLearning](https://www.reddit.com/r/MachineLearning/)
+6. [StackExchange](https://stackexchange.com/): to ask for help in any data science or programming problems  
 
 ## 8. Data Visualization
 Now that you have the tools and resources, it is important to remember that [data visualization](https://en.wikipedia.org/wiki/Data_visualization) is also an important front-end component to Data Science. This is because EFFECTIVE COMMUNICATION of data is crucial to all the work you have spent your blood, sweat and tears on, especially when you are sharing the results with your boss, stakeholders and/or clients. 
 The lack thereof is what gave rise to the other buzzword - **Business Intelligence** which includes tools like Microsoft Power BI, TIBCO Spotfire, Tableau (which are basically Excel on steroids).
 Inspired by Microsoft's Data Summit 2017 keynote by [Alberto Cairo](http://www.thefunctionalart.com) (modern data viz guru to [Edward Tufte](https://en.wikipedia.org/wiki/Edward_Tufte)) - here is a short read [6 Fundamentals of Data Visualization](https://www.linkedin.com/pulse/6-fundamental-principles-data-visualization-didi-sher-ooi/) summarising it.
 
-## 9. Help and Forums
-[StackExchange](https://stackexchange.com/): to ask for help in any data science or programming problems  
 
 ## Key Takeaway
 The key takeaways that I have learned:
