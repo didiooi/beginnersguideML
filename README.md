@@ -54,7 +54,7 @@ There is also another way to view this: **Supervised and Unsupervised Learning**
 
  ![](https://github.com/didiooi/beginnersguideML/blob/master/Data%20Sci.png)  
 
- *(The goal is to be a **UNICORN**.)*
+ *(The goal is to be a **UNICORN**, or at least a strong one third and half of the other two thirds, if that makes sense?)*
 
  All of the terminologies are very similar but have **DIFFERENT EMPHASES**.  
  
