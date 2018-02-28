@@ -1,5 +1,5 @@
 # Getting Started with Data Science and AI
-*v1.0 October-22-2017*  
+by Didi Ooi S. *v1.0 October-22-2017*  
 Repo Content: Resources (all hyperlinked for your convenience!), background, and (very) basic introduction.
 
 ## 1. My Long-Short Summary
@@ -24,7 +24,7 @@ NEXT STEP, if you live in medium/big cities - go out of your comfort zone and me
 
 From finding out about Meetup in the summer 2017 *(yes I am the late bloomer)*, I now regularly go to [Houston Data Science](https://www.meetup.com/Houston-Data-Science/), [Houston Machine Learning](https://www.meetup.com/Houston-Machine-Learning/), [Houston Energy Data Science](https://www.meetup.com/Houston-Energy-Data-Science-Meetup/) and [Houston Data Visualization](https://www.meetup.com/Houston-Data-Visualization-Meetup/) groups and I definitely learned a lot by talking to people, asking questions, or sitting in lectures.  
 
-(**Be warned** that it can be intimidating at first, but understand and expect that you will leave from first few Meetups with 0.1 to 5% comprehension of the whole learning experience and that is COMPLETELY NORMAL. Keep an open mind, be eager to learn and you will realize how that percentage of comprehension grows over time. It is easier and faster than just learning the theoretical background from books and courses but most importantly, it will reinforce your theoretical learning.)
+(**Be warned** that it can be intimidating at first, but understand and expect that you will leave from first few Meetups with 0.1 to 5% comprehension of the whole learning experience and that is COMPLETELY NORMAL. Read Carol Dweck's Mindset to get a sense of what I mean. It is really important to keep an **open mind**, and be very eager to learn and you will soon realize how that percentage of comprehension grows over time. It is easier and faster than just learning the theoretical background from books and courses but most importantly, it will reinforce your theoretical learning.)
 
 ![](https://github.com/didiooi/beginnersguideML/blob/master/Hackathon.jpg)
 *(At the more recent [Agile* Geophysics Hackathon](https://agilescientific.com/blog/2017/9/29/hacking-in-houston) in Houston!)*  
