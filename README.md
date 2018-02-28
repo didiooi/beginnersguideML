@@ -30,8 +30,8 @@ From finding out about Meetup in the summer 2017 *(yes I am the late bloomer)*, 
 *(At the more recent [Agile* Geophysics Hackathon](https://agilescientific.com/blog/2017/9/29/hacking-in-houston) in Houston!)*  
 
 ### UNDERSTAND HOW IT IS BEING APPLIED  
-Last but not least, learn how data science and its architectures are being applied in the **REAL WORLD**. Start by figuring out which **industries you are interested in**, research about how they are integrating traditional methods and products with advanced analytics and emerging technologies into their existing or future products, workflow or supply chain etc. 
-Be that Then VOILA! Your journey begins!
+Last but not least, learn how data science and its architectures are being applied in the **REAL WORLD**. Start by figuring out which **industries you are interested in**, research about how they are (or are not) integrating traditional methods and products with advanced analytics and emerging technologies into their existing or future products, workflow pipelines or supply chain etc. 
+Be the big picture problem solver. Then VOILA! Your journey begins!
 
 
 ## 2. Background for the Newbies
