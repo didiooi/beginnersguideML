@@ -18,7 +18,7 @@ The reason why I said **practice and learn** 'at the same time' is that:
 
 ### PARTICIPATE IN INTEREST GROUPS  
 
-NEXT STEP, if you live in medium/big cities - go out of your comfort zone and meet other people in the AI/DS field, in your area. Chances are your city already has plenty of [MeetUps](http://www.meetup.com/) or [Eventbrite events](https://www.eventbrite.com) where you can go participate and sit in. 99% of these free events/meetups cater to like-minded people of **various** degree of experiences! Houston's Machine Learning and Energy Data Science Meetups have between 3 - 20 NEW people, up to half of them without the background/degree BUT they have the subject matter expertise they want to use this technology to solve problems.  
+NEXT STEP, if you live in medium/big cities - go out of your comfort zone and meet other people in the AI/DS field, in your area. Chances are your city already has plenty of [MeetUps](http://www.meetup.com/) or [Eventbrite events](https://www.eventbrite.com) where you can go participate and sit in. 98% of these FREE events/meetups cater to like-minded people of **various** degree of experiences! Houston's Machine Learning and Energy Data Science Meetups have between 3 - 20 NEW people, up to half of them without the background/degree BUT they have the subject matter expertise they want to use this technology to solve problems.  
 
 *If there isn't one, then be the one to organize the first in your area!*  
 
