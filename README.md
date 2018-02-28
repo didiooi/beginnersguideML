@@ -31,8 +31,9 @@ From finding out about Meetup in the summer 2017 *(yes I am the late bloomer)*, 
 
 ### UNDERSTAND HOW IT IS BEING APPLIED  
 Last but not least, learn how data science and its architectures are being applied in the **REAL WORLD**. Start by figuring out which **industries you are interested in**, research about how they are (or are not) integrating traditional methods and products with advanced analytics and emerging technologies into their existing or future products, workflow pipelines or supply chain etc. 
-Be the big picture problem solver. Then VOILA! Your journey begins!
+Be the big picture problem solver. Then VOILA! Your journey begins!  
 
+For the **Geologist** and the **Geophysicists**, I recommend keeping up-to-date with these two journals: [Computers and Geoscience](https://www.journals.elsevier.com/computers-and-geosciences) journal and [Leading Edge](https://library.seg.org/toc/leedff/current). For open-source tools please visit our open-source collaborative effort [Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience)!
 
 ## 2. Background for the Newbies
 People often get mixed-up with the term Machine Learning (ML), Deep Learning (DL) and how it relates to Artificial Intelligence (AI).
@@ -68,10 +69,12 @@ There is also another way to view this: **Supervised and Unsupervised Learning**
 
 ## 4. Resources  
 
+
 ### MACHINE LEARNING
-Andrew Ng's Stanford (now Google's) [**Machine Learning** course](https://www.coursera.org/learn/machine-learning) is a great place to start if you already have a strong science and math background. For the theoretical background behind Statistical Learning, which is an advanced branch of statistics invented in conjunction with Machine Learning, your best bet will be [**Introduction to Statistical Learning**](http://www-bcf.usc.edu/~gareth/ISL/). The book is free to access online!  
-If you want the *classic* beginner's guide to ML and needs some refresher with math, definitely go to Chris Bishop's [**Pattern Recognition**](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf).  
-If you're feeling extra adventurous and would love to learn the theoretical and mathematical background, try Hastie's [Introduction to Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+- Andrew Ng's Stanford (now Google's) [**Machine Learning** course](https://www.coursera.org/learn/machine-learning) is a great place to start if you already have a decent science and math background.   
+- For the theoretical background behind Statistical Learning, which is an advanced branch of statistics invented in conjunction with Machine Learning, your best bet will be [**Introduction to Statistical Learning**](http://www-bcf.usc.edu/~gareth/ISL/). The book is free to access online!  
+- If you want the *classic* beginner's guide to ML and needs some refresher with math, definitely go to Chris Bishop's [**Pattern Recognition**](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf).  
+- If you're feeling extra adventurous and would love to learn the theoretical and mathematical background, try Hastie's [Introduction to Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
 ### DEEP LEARNING
 - For **Deep Learning**, there is no other place to start with than Ian Goodfellow et al's [Deep Learning](http://www.deeplearningbook.org/) book. It is FREE online too.
@@ -88,8 +91,15 @@ If you're feeling extra adventurous and would love to learn the theoretical and 
 - Resources include [Barto and Sutton's classic RL book](http://incompleteideas.net/sutton/book/ebook/the-book.html) - which is free online  
 
 
+### MATH & STATS (OFTEN ENCOUNTERED)
+I am not a big fan of this but since this is a frequently asked question, I will just put it here. My advice is to learn it procedurally by demand, as starting it this way will quickly diminish your interest to pursue ML/DS very quickly. Tbh, Andrew Ng's ML course is very forgiving with refreshing the math and stats for you!  
+1. Probability Statistics
+2. Linear Algebra
+3. Multivariate Calculus esp Derivative and Integral
+4. Optimization
+
 ## 5. Programming Language  
-With so many languages out there and people preaching on theirs to use, it is easy to get overwhelmed. For complete newbies, I definitely recommend Python.  
+With so many languages out there and people preaching on theirs to use, it is easy to get overwhelmed. Advice here is to remember that your goal of mastery is not the language, it is the knowledge of logic and syntax. For complete newbies, I definitely recommend Python (as of 2017). The other reason is because Python has the greatest community support and it calls out Machine Learning libraries/framework easily.   
 
 [**Python**](https://www.python.org/) is the fastest growing language because of how dynamic and readable it is, so I'd suggest getting started with the basics of it. If you're a complete beginner, like me, start with this Al Sweigart's no-fuss examples from [Automate The Boring Stuff with Python](https://automatetheboringstuff.com/).  
 
